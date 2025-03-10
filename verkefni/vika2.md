@@ -1,0 +1,12 @@
+## Verkefni
+* [Velkomin!](https://iceland.kattis.com/problems/velkomin)
+* [Hipp Hipp](https://iceland.kattis.com/problems/hipphipp)
+* [Leggja saman](https://iceland.kattis.com/problems/leggjasaman)
+* [Óvissa](https://iceland.kattis.com/problems/ovissa)
+* [Á leið í bíó](https://iceland.kattis.com/problems/aleidibio)
+* [Tölvunarfræðingar telja](https://iceland.kattis.com/problems/tolvunarfraedingartelja)
+* [Draga frá](https://iceland.kattis.com/problems/dragafra)
+* [Kveðja](https://iceland.kattis.com/problems/kvedja)
+* [BergMál](https://iceland.kattis.com/problems/bergmal)
+* [Búðarkassi 2](https://iceland.kattis.com/problems/iceland.budarkassi2)
+* [Amerískur vinnustaður](https://iceland.kattis.com/problems/ameriskur)
