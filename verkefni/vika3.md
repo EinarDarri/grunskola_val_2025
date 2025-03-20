@@ -1,0 +1,9 @@
+## Verkefni
+* [flatbokuveisla](https://iceland.kattis.com/problems/flatbokuveisla)
+* [fifa](https://iceland.kattis.com/problems/fifa)
+* [blandadbest](https://iceland.kattis.com/problems/blandadbest)
+* [storafmaeli](https://iceland.kattis.com/problems/storafmaeli)
+* [lidaskipting](https://iceland.kattis.com/problems/lidaskipting)
+* [takkar](https://iceland.kattis.com/problems/takkar)
+* [fimmtudagstilbod](https://iceland.kattis.com/problems/fimmtudagstilbod)
+* [heysata](https://iceland.kattis.com/problems/heysata)
