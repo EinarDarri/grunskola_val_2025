@@ -5,3 +5,4 @@
 * [vidsnuningur](https://iceland.kattis.com/problems/vidsnuningur)
 * [upprodun](https://iceland.kattis.com/problems/upprodun)
 * [afjormun](https://iceland.kattis.com/problems/afjormun)
+* [asciikassi](https://iceland.kattis.com/problems/asciikassi)
