@@ -5,7 +5,7 @@ print("the string in all lower case", string.lower())
 print("the string in all upper case", string.upper())
 print("the length of the string", len(string))
 print("the fyrst character of the string", string[0])
-print("the last character of the string", string[-1])
+"Appelsína"
 print("the string in reverse"[::-1], string[::-1])
 
 print("is the string a digit", string.isdigit())
